@@ -142,7 +142,7 @@ header .ham-burger.active span:nth-child(2){
 }
 .home{
 	height: 100vh;
-	background-image: url('../images/1.jpg');
+	background-image: url("https://c4.wallpaperflare.com/wallpaper/297/176/989/muscle-man-gym-bodybuilder-wallpaper-preview.jpg");
 	background-size: cover;
 	padding:15px;
 	-webkit-display: flex;
